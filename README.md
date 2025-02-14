@@ -23,7 +23,7 @@ The proposed work has objectives:
 6. Battery
 7. Wheels
 
-### software Requirement:
+### Software Requirement:
 1. Bluetooth Controller App
 
 ### Project Specifications
@@ -31,3 +31,11 @@ The proposed work has objectives:
 1. Wireless Technology    -   Bluetooth
 2. Power Source           -   Renewable energy (Solar power)
 3. Range                  -   10 meter 
+
+### System Specifications 
+
+1. Controller          -   3.3 V to 5 V
+2. Power Supply        -   12 V, 1A
+3. Solar Panel         -   50 W - 100 W
+4. Bluetooth HC-05     -   5 V, 10-15 m
+5. L293D Motor Driver  -   12 V, 1A
