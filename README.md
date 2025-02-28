@@ -9,7 +9,7 @@ This project is conducted to help clean the environment, specifically swimming p
 ### Objectives
 The proposed work has objectives:
   1. To clean surface of water bodies.
-  2. To design a boat which will rotate 180 C at tis location directions.
+  2. To design a boat which will rotate 180 at tis location directions.
   3. To use wireless technology for operation.
   4. To use renewable energy source for operation of boat.
 
@@ -34,7 +34,7 @@ The proposed work has objectives:
 
 ### System Specifications 
 
-1. Controller          -   3.3 V to 5 V
+1. Controller          -   1.8 V to 5.5 V
 2. Power Supply        -   12 V, 1A
 3. Solar Panel         -   100 W
 4. Bluetooth HC-05     -   5 V, 10-15 m
